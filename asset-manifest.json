@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.1cac0a54.css",
-    "main.js": "/static/js/main.16ef14ff.js",
+    "main.css": "/static/css/main.cf808499.css",
+    "main.js": "/static/js/main.2204edaf.js",
     "static/js/787.15c9017e.chunk.js": "/static/js/787.15c9017e.chunk.js",
-    "static/media/DOSGothic.ttf": "/static/media/DOSGothic.56e0d614bf83161e6e79.ttf",
     "static/media/NeutronicHangeul-Regularv0.3.woff2": "/static/media/NeutronicHangeul-Regularv0.3.9606b77f1359437e7c7a.woff2",
+    "static/media/img_title.png": "/static/media/img_title.0198f1ed12566dc853ad.png",
     "static/media/NectoMono-Regular.woff2": "/static/media/NectoMono-Regular.050dcd1a4dde19693c65.woff2",
     "index.html": "/index.html",
-    "main.1cac0a54.css.map": "/static/css/main.1cac0a54.css.map",
-    "main.16ef14ff.js.map": "/static/js/main.16ef14ff.js.map",
+    "main.cf808499.css.map": "/static/css/main.cf808499.css.map",
+    "main.2204edaf.js.map": "/static/js/main.2204edaf.js.map",
     "787.15c9017e.chunk.js.map": "/static/js/787.15c9017e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1cac0a54.css",
-    "static/js/main.16ef14ff.js"
+    "static/css/main.cf808499.css",
+    "static/js/main.2204edaf.js"
   ]
 }
