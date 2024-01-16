@@ -1,18 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.96d2521f.css",
-    "main.js": "/static/js/main.fed05e38.js",
+    "main.css": "/static/css/main.0c43dc26.css",
+    "main.js": "/static/js/main.6b62bbca.js",
     "static/js/787.15c9017e.chunk.js": "/static/js/787.15c9017e.chunk.js",
-    "static/media/NeutronicHangeul-Regularv0.3.woff2": "/static/media/NeutronicHangeul-Regularv0.3.9606b77f1359437e7c7a.woff2",
-    "static/media/img_title.png": "/static/media/img_title.0198f1ed12566dc853ad.png",
     "static/media/NectoMono-Regular.woff2": "/static/media/NectoMono-Regular.050dcd1a4dde19693c65.woff2",
     "index.html": "/index.html",
-    "main.96d2521f.css.map": "/static/css/main.96d2521f.css.map",
-    "main.fed05e38.js.map": "/static/js/main.fed05e38.js.map",
+    "main.0c43dc26.css.map": "/static/css/main.0c43dc26.css.map",
+    "main.6b62bbca.js.map": "/static/js/main.6b62bbca.js.map",
     "787.15c9017e.chunk.js.map": "/static/js/787.15c9017e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.96d2521f.css",
-    "static/js/main.fed05e38.js"
+    "static/css/main.0c43dc26.css",
+    "static/js/main.6b62bbca.js"
   ]
 }
